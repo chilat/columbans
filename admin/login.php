@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>SCA-Student Information and Grading System</title>
+<title>Student Information and Grading System</title>
 
 <!-- Bootstrap core CSS -->
 <link href="<?php echo WEB_ROOT; ?>css/bootstrap.min.css" rel="stylesheet">
